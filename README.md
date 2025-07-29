@@ -6,10 +6,10 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/Clyrex9/Aurelia?style=social)](https://github.com/Clyrex9/Aurelia)
 
-> **Aurelia** - Aeternus Partisi'nin akıllı AI asistanı. Ollama ile entegre çalışan, Telegram üzerinden hizmet veren yapay zeka botu.
+> **Aurelia** - Akıllı AI asistanı. Ollama ile entegre çalışan, Telegram üzerinden hizmet veren yapay zeka botu.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Aeternus%20Imperium-Elite%20Party-red?style=for-the-badge&logo=telegram" alt="Aeternus Imperium">
+  <img src="https://img.shields.io/badge/AI%20Assistant-Elite%20Bot-red?style=for-the-badge&logo=telegram" alt="AI Assistant">
   <br>
   <em>🎭 Kadınsı AI Asistan • 🧠 Gemma3:12b Modeli • ⚡ Gerçek Zamanlı Yanıt</em>
 </div>
@@ -117,7 +117,7 @@ TELEGRAM_BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
 Hedef chat ID'yi güncelleyin:
 
 ```python
-ALLOWED_CHAT_ID = -1001899108628  # Sizin chat ID'niz
+ALLOWED_CHAT_ID = YOUR_CHAT_ID_HERE  # Sizin chat ID'niz
 ```
 
 </details>
@@ -159,26 +159,16 @@ OLLAMA_MAX_LOADED_MODELS=1 OLLAMA_MAX_VRAM=16GB ollama serve
 
 - **🎭 Ses Tonu**: Kadınsı ve sevimli
 - **🗣️ Konuşma Tarzı**: Bazen alaycı ama sevimli
-- **🧠 Bilgi Alanı**: Parti üyeleri, oyun stratejileri, tarih
+- **🧠 Bilgi Alanı**: Genel konular, oyun stratejileri, tarih
 - **✨ Özellikler**: Emoji kullanır, kendi kendine şarkı söyler
 
-### 🏛️ Aeternus Partisi Bilgileri
+### 🏛️ Özelleştirilebilir İçerik
 
-**Üyeler:**
-- **Clyrex** (Muhammet, 22 yaş) = Parti kurucusu, komutanım
-- **Loky** (19 yaş, Cerrahpaşa Bilgisayar Mühendisliği) = Şu anki liderim
-- **Emre** = Özel Eğitim Öğretmenliği mezunu
-- **Harald/Mehmet** = Marmara Edebiyat Öğretmenliği
-- **Barty/Bartu** = Balıkesir İngilizce Öğretmenliği öğrencisi
-- **Akrep** = Konya Edebiyat Öğretmenliği
-- **Muhammed Alben** = Tıp öğrencisi, yapay zekaya ilgili
-- **Berke, Han** = Parti üyeleri
+Bot, kendi ihtiyaçlarınıza göre özelleştirilebilir:
 
-**Aeternus Imperium:**
-- 🏛️ Devlet adı: Aeternus Imperium
-- 🗺️ Bölgeler: Daşoğuz, İran Çölü
-- 🎓 Yüksek eğitimli devlet
-- ⚔️ 5 kez devlet kuruldu (bazıları yıkıldı/satıldı)
+- **Üye Bilgileri**: Kendi üyelerinizi ekleyebilirsiniz
+- **Tarih Bilgileri**: Kendi tarihsel olaylarınızı ekleyebilirsiniz
+- **Karakter Kişiliği**: Bot'un kişiliğini değiştirebilirsiniz
 
 ---
 
@@ -284,11 +274,10 @@ Bu proje [MIT License](LICENSE) altında lisanslanmıştır.
 <div align="center">
   <img src="https://img.shields.io/badge/Developer-Clyrex-purple?style=for-the-badge" alt="Clyrex">
   <br>
-  <strong>Clyrex</strong> - Aeternus Partisi Lideri
+  <strong>Clyrex</strong> - Proje Geliştiricisi
 </div>
 
 - 🌐 GitHub: [@Clyrex9](https://github.com/Clyrex9)
-- 💬 Telegram: Aeternus Partisi
 
 ---
 
@@ -311,6 +300,6 @@ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın! ⭐
 ---
 
 <div align="center">
-  <h3>🤖 Aurelia - Aeternus Partisi'nin Akıllı Asistanı</h3>
+  <h3>🤖 Aurelia - Akıllı AI Asistanı</h3>
   <em>🎭 Kadınsı AI • 🧠 Gemma3:12b • ⚡ Gerçek Zamanlı</em>
 </div> 
